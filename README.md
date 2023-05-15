@@ -1,2 +1,2 @@
 # git-studies
-Repositorio de estudos do git. Changed locally.
+This line was modified manually during conflicts resolutions
